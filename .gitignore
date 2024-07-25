@@ -23,5 +23,6 @@ dist-ssr
 *.sw?
 
 data.json
+dist
 /data_recover.json
 .env
