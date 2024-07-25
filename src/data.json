@@ -1,55 +1,91 @@
 {
   "links": [
     {
-      "name": "搜索引擎",
-      "icon": "Search",
+      "name": "常用",
+      "icon": "Compass",
       "items": [
         {
-          "title": "baidu",
-          "url": "https://www.baidu.com",
-          "description": "百度一下, 你就知道"
+          "title": "v2ex",
+          "url": "https://v2ex.com/"
         },
         {
-          "title": "google",
-          "url": "https://www.google.com"
-        },
-        {
-          "title": "github",
-          "url": "U2FsdGVkX18UD1HjEBUyiifbPqnGUtmKya6GteuNp5HDysccCUZZef/c27XyRiIL",
-          "encrypt": true
-        },
-        {
-          "title": "bing",
-          "url": "https://www.bingaaaa.com"
-        },
-        {
-          "title": "google",
-          "url": "https://www.google.com"
+          "title": "少数派",
+          "url": "https://sspai.com"
         },
         {
           "title": "github",
-          "url": "U2FsdGVkX184w7mfvwf1ccFg5lJKaO57ci/nsWjq2yPNukvTUP1heUOghEKSnxMz",
-          "encrypt": true
+          "url": "https://www.github.com"
         },
         {
-          "title": "bing",
-          "url": "https://www.bingaaaa.com"
+          "title": "ChatGPT",
+          "url": "https://chat.openai.com/"
+        },
+        {
+          "title": "OpenP2P",
+          "url": "https://openp2p.cn/"
+        },
+        {
+          "title": "blog",
+          "url": "https://blog.yunshu.fun"
         }
       ]
     },
     {
-      "name": "aaa",
+      "name": "工作",
+      "icon": "GitNetwork",
       "items": [
         {
-          "title": "github",
-          "url": "U2FsdGVkX1+JE6W5CH1kb/Qc6NYMwq8MLvNbLieBQpF9HtBV2uIY2WLc73sTgWDO",
+          "title": "GPT",
+          "url": "U2FsdGVkX19SolV67Z/W5ob4Td1FV77l7G+uQKMBm2JGOmxtX/3tFh5CZldqlIsL",
           "encrypt": true
+        }
+      ]
+    },
+    {
+      "name": "个人",
+      "icon": "Person",
+      "items": [
+        {
+          "title": "Memo",
+          "url": "U2FsdGVkX1+2aC2ZSFFEdVhBnVfqDAk3XY5l1FqGWKBN5ORowhaVwCH0To85+iaq",
+          "encrypt": true
+        },
+        {
+          "title": "Rss",
+          "url": "U2FsdGVkX19/j2wvZkrVIj7/iT07Nrs0/kNHK5Z+d1toiQkYZnFmFBD+HSB8SH6x",
+          "encrypt": true
+        }
+      ]
+    },
+    {
+      "name": "开发文档",
+      "icon": "Document",
+      "items": [
+        {
+          "title": "Python",
+          "url": "https://docs.python.org/zh-cn/"
+        },
+        {
+          "title": "Vue.js",
+          "url": "https://cn.vuejs.org/"
+        },
+        {
+          "title": "xicons",
+          "url": "https://xicons.org/#/"
+        },
+        {
+          "title": "FastAPI",
+          "url": "https://fastapi.tiangolo.com/zh/learn/"
+        },
+        {
+          "title": "tailwindcss",
+          "url": "https://tailwindcss.com/docs/"
         }
       ]
     }
   ],
   "check": {
     "origin": "hello world",
-    "encrypted": "U2FsdGVkX188gx9xdtPzn12y9mE5J3LySJXxVz1H8GY="
+    "encrypted": "U2FsdGVkX19t1U7LkpjIFMySdXtXlFqoqeNGElOSx38="
   }
 }

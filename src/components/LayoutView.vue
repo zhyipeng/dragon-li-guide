@@ -1,5 +1,11 @@
 <script setup lang="ts">
-import { Search } from "@vicons/ionicons5";
+import {
+  Compass,
+  Document,
+  GitNetwork,
+  Person,
+  Search,
+} from "@vicons/ionicons5";
 import {
   MenuOption,
   NButton,
@@ -24,6 +30,10 @@ import LinkItem from "./LinkItem.vue";
 
 const icons: Record<string, Component> = {
   Search,
+  Compass,
+  GitNetwork,
+  Person,
+  Document,
 };
 
 const selected = ref("");

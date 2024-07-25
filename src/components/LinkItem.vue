@@ -44,12 +44,7 @@ const show = computed(() => {
       <n-card style="width: 300px; height: 100px">
         <n-thing>
           <template #avatar>
-            <n-avatar
-              round
-              lazy
-              :src="iconSrc"
-              fallback-src="/logo.png"
-            ></n-avatar>
+            <n-avatar round :src="iconSrc" fallback-src="/logo.png"></n-avatar>
           </template>
           <template #header>
             {{ data.title }}
