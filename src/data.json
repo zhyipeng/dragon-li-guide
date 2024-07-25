@@ -1,0 +1,55 @@
+{
+  "links": [
+    {
+      "name": "搜索引擎",
+      "icon": "Search",
+      "items": [
+        {
+          "title": "baidu",
+          "url": "https://www.baidu.com",
+          "description": "百度一下, 你就知道"
+        },
+        {
+          "title": "google",
+          "url": "https://www.google.com"
+        },
+        {
+          "title": "github",
+          "url": "U2FsdGVkX18UD1HjEBUyiifbPqnGUtmKya6GteuNp5HDysccCUZZef/c27XyRiIL",
+          "encrypt": true
+        },
+        {
+          "title": "bing",
+          "url": "https://www.bingaaaa.com"
+        },
+        {
+          "title": "google",
+          "url": "https://www.google.com"
+        },
+        {
+          "title": "github",
+          "url": "U2FsdGVkX184w7mfvwf1ccFg5lJKaO57ci/nsWjq2yPNukvTUP1heUOghEKSnxMz",
+          "encrypt": true
+        },
+        {
+          "title": "bing",
+          "url": "https://www.bingaaaa.com"
+        }
+      ]
+    },
+    {
+      "name": "aaa",
+      "items": [
+        {
+          "title": "github",
+          "url": "U2FsdGVkX1+JE6W5CH1kb/Qc6NYMwq8MLvNbLieBQpF9HtBV2uIY2WLc73sTgWDO",
+          "encrypt": true
+        }
+      ]
+    }
+  ],
+  "check": {
+    "origin": "hello world",
+    "encrypted": "U2FsdGVkX188gx9xdtPzn12y9mE5J3LySJXxVz1H8GY="
+  }
+}

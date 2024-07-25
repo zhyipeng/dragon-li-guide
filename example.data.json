@@ -1,0 +1,49 @@
+[
+  {
+    "name": "搜索引擎",
+    "icon": "Search",
+    "items": [
+      {
+        "title": "baidu",
+        "url": "https://www.baidu.com",
+        "description": "百度一下, 你就知道"
+      },
+      {
+        "title": "google",
+        "url": "https://www.google.com"
+      },
+      {
+        "title": "github",
+        "url": "https://www.github.com",
+        "encrypt": true
+      },
+      {
+        "title": "bing",
+        "url": "https://www.bingaaaa.com"
+      },
+      {
+        "title": "google",
+        "url": "https://www.google.com"
+      },
+      {
+        "title": "github",
+        "url": "https://www.github.com",
+        "encrypt": true
+      },
+      {
+        "title": "bing",
+        "url": "https://www.bingaaaa.com"
+      }
+    ]
+  },
+  {
+    "name": "aaa",
+    "items": [
+      {
+        "title": "github",
+        "url": "https://www.github.com",
+        "encrypt": true
+      }
+    ]
+  }
+]
